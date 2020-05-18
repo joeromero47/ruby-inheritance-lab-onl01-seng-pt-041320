@@ -6,5 +6,4 @@ class Student
     @last_name = last_name 
   end 
   
-  def first_name
 end
